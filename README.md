@@ -68,3 +68,12 @@ Prism sample:
 eg_prism_sample.m
 eg_prism_transmission.m
 eg_prism_plot_theta_twotheta.m
+
+
+The eg_ files are self explaning.  
+
+"Eg_*_sample.m" fikesincludes the sample definition with the surface equations. 
+
+"Eg_*_transmission.m" files calculate the transmission giving theta and twotheta angles.
+
+"Eg_*_plot_theta_twotheta.m" files calculate the transmission for a set of theta-twotheta angles and create a 2D plot of the calculated transmission.
