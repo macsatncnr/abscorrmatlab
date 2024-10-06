@@ -70,7 +70,7 @@ eg_prism_transmission.m
 eg_prism_plot_theta_twotheta.m
 
 
-The eg_ files are self explaning.  
+The eg_ files are self explanatory.  
 
 "Eg_*_sample.m" fikesincludes the sample definition with the surface equations. 
 
