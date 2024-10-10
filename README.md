@@ -7,10 +7,9 @@ By 	Jose. A Rodriguez-Rivera
 	joarodri@nist.gov
 	jrodrig9@umd.edu
 
-If you use these routines please cite the web site and include it in the acknowledgments.
+If you use these routines please cite the web site.
 
-The program calculates the neutron and x-ray transmission corrections for arbitrary shape samples. It is a generalized version of the Wuensch and Prewitt algorithm [1]. This new version supports complex shapes, closed geometries like spheroids intersected by several surfaces and arrays of multiple samples. 
-[1]  “Corrections for x-ray absorption by a crystal of arbitrary shape”, B.J. Wuensch and C.T.  Prewitt,  Zeitschrif fur Kristallographie, 122 1 /2 1965.  
+The program calculates the neutron and x-ray transmission corrections for arbitrary shape samples. It is a generalized version of the Wuensch and Prewitt algorithm. This new version supports complex shapes, closed geometries like spheroids intersected by several surfaces and arrays of multiple samples. 
 
 
 The sample boundaries  must be defined as quadratic surfaces of the form 
