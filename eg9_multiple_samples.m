@@ -8,8 +8,10 @@
 %   h=1.5
 
 function all_samples = eg9_multiple_samples()
-    all_samples(1) = trm_smpl_trans(eg1_box_sample(2,2,2),[2,2,2]);
-    all_samples(2) = trm_smpl_trans(eg2_sphere_sample(2),[-2,-2,-2]);
-    all_samples(3) = trm_smpl_trans(eg3_cylinder_sample(1.0,1.5),[-2,2,0]);
+    all_samples(2) = trm_smpl_trans(eg1_box_sample(1,1,1),[1,1,1]);
+    all_samples(1) = trm_smpl_trans(eg2_sphere_sample(1),[-1,-1,-1]);
+    all_samples(3) = trm_smpl_trans(eg3_cylinder_sample(1,1.5),[-1.5,1.5,0]);
+    %all_samples(1) = trm_smpl_trans(eg5_half_cylinder_sample(1.5,1.5),[-2,2,0]);
+    
     
 end
