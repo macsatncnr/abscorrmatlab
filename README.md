@@ -7,7 +7,9 @@ By 	Jose. A Rodriguez-Rivera
 	joarodri@nist.gov
 	jrodrig9@umd.edu
 
-If you use these routines please cite the web site.
+If you use these routines please cite the paper "Neutron absorption correction and mean path length calculations formultiple samples with arbitrary shapes: application to highly absorbing samples on the Multi-Axis Crystal Spectrometer at NIST" by Rodriguez-Rivera, J.A. and Stock, C., J Appl Cryst 58, (2025).
+
+You can find a colab webpage where you can run the python version here: https://sites.google.com/view/abscorr/home
 
 The program calculates the neutron and x-ray transmission corrections for arbitrary shape samples. It is a generalized version of the Wuensch and Prewitt algorithm. This new version supports complex shapes, closed geometries like spheroids intersected by several surfaces and arrays of multiple samples. 
 
